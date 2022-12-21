@@ -1,0 +1,22 @@
+body
+{
+background-color: crimson ;
+color: white;
+}
+#score
+{
+  margin: 20px;
+  font-size: 25px;
+  float: left;
+}
+#time
+{
+margin-right: 100px;
+font-size: 25px;
+float: right;
+}
+#sketch_name,#label,#confidence
+{
+ color: lightcyan;
+ font-size: 25px;
+}
